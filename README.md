@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seek </h1>
 <h3 align="center">A Full Stack Backend Developer</h3>
 
-- 🔭 I’m currently working on [Carbon](https://carbon.bot.tech/invite)
+- 🔭 I’m currently working on [Nothing](https://ok)
 
 - 🌱 I’m currently learning **Next.js and React-native**
 
