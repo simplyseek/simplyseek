@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js and React-native**
 
-- 👨‍💻 All of my projects are available at [https://aboutseek.me](https://aboutseek.me)
+- 👨‍💻 All of my projects are available at [https://aboutseek.me](https://aboutseek.me) (**currently deactivated**)
 
 - 💬 Ask me about **nodejs and reactjs**
 
