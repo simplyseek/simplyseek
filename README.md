@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seek </h1>
 <h3 align="center">A Full Stack Backend Developer</h3>
 
-- 🔭 I’m currently working on [Blue](https://discord.com/api/oauth2/authorize?client_id=861696191346245633&permissions=8&scope=bot%20applications.commands)
+- 🔭 I’m currently working on [Nothing](https://discord.com)
 
 - 🌱 I’m currently learning **Next.js and React-native**
 
